@@ -1,1 +1,1 @@
-java -Xmx4G -Xms3G -XX:+UseCompactObjectHeaders -XX:+UseZGC -jar fabric-server.jar
+java -Xmx6G -Xms4G -XX:+UseCompactObjectHeaders -XX:+UseZGC -jar fabric-server.jar
