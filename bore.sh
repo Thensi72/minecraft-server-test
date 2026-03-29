@@ -1,0 +1,1 @@
+docker run ekzhang/bore local --port 26100 --to bore.pub 25565
